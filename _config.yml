@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=xA-h4oIAAAAJ&hl=en"
-  email            : "james.green@ibb.cnr.it"
+  email            : "green@chemie.uni-frankfurt.de"
   researchgate     : "https://www.researchgate.net/profile/James-Green-61"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jamesagreen"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  overdia          : "http://www.iccom.cnr.it/en/overdia-en/"
 
 
 # Reading Files
